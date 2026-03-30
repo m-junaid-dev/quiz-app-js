@@ -74,6 +74,10 @@
             });
             box.classList.add("conta");
             form.reset();
+                if(window.innerWidth <= 768){
+                   box.style.display = "none";
+}
+
             
         })
 
