@@ -73,7 +73,7 @@ hr{
 .numbers{
     position:absolute;
     right:30%;
-    transform:translateX(50%);
+    transform:translateX(30%);
     top:100px;
     display:none;
     height:200px;
